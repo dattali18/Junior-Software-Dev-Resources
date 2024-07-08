@@ -32,7 +32,7 @@ This repo is a warehouse for storing and linking resource to the junior dev
 22. Blogs
 23. Forums
 24. Podcasts
-25. YouTube Channels
+25. [YouTube Channels](/YouTube-Channels/README.md)
 
 
 ## Authors
@@ -45,7 +45,7 @@ If you want to contribute to this list and make it better, your help is very wel
 
 1. Fork this repository by clicking the Fork button on the top right.
 2. Clone your forked repository to your local machine.
-3. Add the resource you want to add to the appropriate README file.
+3. Add the resource you want to add to the appropriate `README` file.
 4. Commit and push your changes.
 5. Create a pull request by going to the original repository and clicking the New pull request button.
 

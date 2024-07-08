@@ -21,6 +21,9 @@
 - [Codecademy](https://www.youtube.com/watch?v=yfoY53QXEnI)
 - [The Net Ninja](https://www.youtube.com/watch?v=yfoY53QXEnI)
 - [Academind](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Fireship](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [Kevin Powell](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Web Dev Simplified](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 
 ## Courses
 
