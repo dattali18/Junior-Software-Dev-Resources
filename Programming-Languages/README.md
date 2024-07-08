@@ -4,9 +4,10 @@ This section contains resources for learning and mastering programming languages
 
 ## Table of Contents
 
+1. [Bash](/Programming-Languages/Bash/README.md)
 1. [C](/Programming-Languages/C/README.md)
 2. [C++](/Programming-Languages/C++/README.md)
-3. [C#](/Programming-Languages/C#/README.md)
+3. [C#](/Programming-Languages/CSharp/README.md)
 4. [Java](/Programming-Languages/Java/README.md)
 5. [JavaScript](/Programming-Languages/JavaScript/README.md)
 6. [Python](/Programming-Languages/Python/README.md)
