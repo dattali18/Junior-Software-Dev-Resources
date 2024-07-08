@@ -5,7 +5,6 @@ This repo is a warehouse for storing and linking resource to the junior dev
 
 1. Subject ordered by category [link](#Categories)
 2. Subject ordered by alphabetical order \[A-Z\] [link](#alphabetical-order)
-    * TODO: -- add this list
 
 ## Alphabetical Order
 
@@ -29,7 +28,7 @@ to be added
 
 ### D
 
-to be added
+- [Docker](/Tools/Docker/README.md)
 
 ### E
 
@@ -45,7 +44,7 @@ to be added
 
 ### H
 
-to be added
+- [HTML](/Programming-Languages/HTML/README.md)
 
 ### I
 
