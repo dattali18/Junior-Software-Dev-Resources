@@ -7,7 +7,6 @@
 3. Technologies
 4. Frameworks
 5. Libraries
-id1(Some text)
 
 ## Roadmap
 
