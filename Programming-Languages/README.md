@@ -1,0 +1,35 @@
+# Programming Languages
+
+This section contains resources for learning and mastering programming languages.
+
+## Table of Contents
+
+1. [C](/Programming-Languages/C/README.md)
+2. [C++](/Programming-Languages/C++/README.md)
+3. [C#](/Programming-Languages/C#/README.md)
+4. [Java](/Programming-Languages/Java/README.md)
+5. [JavaScript](/Programming-Languages/JavaScript/README.md)
+6. [Python](/Programming-Languages/Python/README.md)
+7. [Ruby](/Programming-Languages/Ruby/README.md)
+8. [Rust](/Programming-Languages/Rust/README.md)
+9. [Swift](/Programming-Languages/Swift/README.md)
+10. [TypeScript](/Programming-Languages/TypeScript/README.md)
+11. [Go](/Programming-Languages/Go/README.md)
+12. [Kotlin](/Programming-Languages/Kotlin/README.md)
+13. [Scala](/Programming-Languages/Scala/README.md)
+14. [PHP](/Programming-Languages/PHP/README.md)
+15. [Perl](/Programming-Languages/Perl/README.md)
+16. [Haskell](/Programming-Languages/Haskell/README.md)
+17. [R](/Programming-Languages/R/README.md)
+18. [Lua](/Programming-Languages/Lua/README.md)
+19. [Matlab](/Programming-Languages/Matlab/README.md)
+20. [SQL](/Programming-Languages/SQL/README.md)
+21. [Shell](/Programming-Languages/Shell/README.md)
+22. [Assembly](/Programming-Languages/Assembly/README.md)
+23. [Objective-C](/Programming-Languages/Objective-C/README.md)
+24. [Groovy](/Programming-Languages/Groovy/README.md)
+25. [Dart](/Programming-Languages/Dart/README.md)
+26. [Elixir](/Programming-Languages/Elixir/README.md)
+27. [Clojure](/Programming-Languages/Clojure/README.md)
+28. [Erlang](/Programming-Languages/Erlang/README.md)
+29. [Julia](/Programming-Languages/Julia/README.md)
