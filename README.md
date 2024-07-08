@@ -38,3 +38,14 @@ This repo is a warehouse for storing and linking resource to the junior dev
 ## Authors
 
 1. [Daniel Attali](https://github.com/dattali18)
+
+## Contributing
+
+If you want to contribute to this list and make it better, your help is very welcome. To do so, you can either open an issue or a pull request. If you're not sure how to do that, you can follow the instructions below:
+
+1. Fork this repository by clicking the Fork button on the top right.
+2. Clone your forked repository to your local machine.
+3. Add the resource you want to add to the appropriate README file.
+4. Commit and push your changes.
+5. Create a pull request by going to the original repository and clicking the New pull request button.
+
