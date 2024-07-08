@@ -3,8 +3,123 @@ This repo is a warehouse for storing and linking resource to the junior dev
 
 ## Table of Contents
 
-1. Subject ordered by category
-2. Subject ordered by alphabetical order \[A-Z\]
+1. Subject ordered by category [link](#Categories)
+2. Subject ordered by alphabetical order \[A-Z\] [link](#alphabetical-order)
+    * TODO: -- add this list
+
+## Alphabetical Order
+
+For now this list contains only the one that where at least started.
+
+### A
+
+to be added
+
+### B
+
+- [Bash](/Programming-Languages/Bash/README.md)
+
+
+### C
+
+- [C](/Programming-Languages/C/README.md)
+- [C++](/Programming-Languages/C++/README.md)
+- [C#](/Programming-Languages/C#/README.md)
+- [CSS](/Programming-Languages/CSS/README.md)
+
+### D
+
+to be added
+
+### E
+
+to be added
+
+### F
+
+to be added
+
+### G
+
+- [Git](/Tools/Git/README.md)
+
+### H
+
+to be added
+
+### I
+
+to be added
+
+### J
+
+- [Javascript](/Programming-Languages/Javascript/README.md)
+
+### K
+
+to be added
+
+### L
+
+to be added
+
+### M
+
+to be added
+
+### N
+
+to be added
+
+### O
+
+to be added
+
+### P
+
+to be added
+
+### Q
+
+to be added
+
+### R
+
+- [React](/Frameworks/React/README.md)
+
+### S
+
+to be added
+
+### T
+
+to be added
+
+### U
+
+to be added
+
+### V
+
+to be added
+
+### W
+
+to be added
+
+### X
+
+to be added
+
+### Y
+
+- [YouTube Channels](/YouTube-Channels/README.md)
+
+### Z
+
+to be added
+
+
 
 ## Categories
 
