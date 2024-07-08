@@ -40,7 +40,7 @@ to be added
 
 ### G
 
-- [Git](/Tools/Git/README.md)
+- [Git](/Tools/VCS/Git/README.md)
 
 ### H
 
