@@ -14,16 +14,16 @@ for Web Development you need to choose between a few possible paths but all star
 
 ### Frontend Web Development
 
-1. HTML
-2. CSS
-3. JavaScript
+1. [HTML](/Programming-Languages/HTML/README.md)
+2. [CSS](/Programming-Languages/CSS/README.md)
+3. [JavaScript](/Programming-Languages/Javascript/README.md)
 
 After you have a good understanding of the basics you can choose between a few possible paths:
 
-* React
-* Angular
-* Vue
-* Svelte
+* [React](/Frameworks/React/README.md)
+* [Angular](/Frameworks/Angular/README.md)
+* [Vue](/Frameworks/Vue/README.md)
+* [Svelte](/Frameworks/Svelte/README.md)
 * ...
 
 ### Backend Web Development
