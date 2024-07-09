@@ -17,6 +17,8 @@ Git is a free and open-source distributed version control system designed to han
 - [Git Merge](/Tools/VCS/Git/04.Git.Merge.md)
 - [Git Submodules](/Tools/VCS/Git/05.Git.Submodule.md)
 
+- [git.md](./git.md)
+
 ## What is Git?
 
 Git is a distributed version control system that tracks changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.

@@ -5,6 +5,10 @@
 1. [Online Resources](#online-resources)
 2. [Basics](#basics)
 
+## Internal Links
+
+- [javascript.md](./javascript.md)
+
 ## Online Resources
 
 ### Written Tutorials

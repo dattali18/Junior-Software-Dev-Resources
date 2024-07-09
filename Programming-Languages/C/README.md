@@ -9,6 +9,11 @@ C is a general-purpose programming language developed by Dennis Ritchie at Bell 
 3. [How to Learn C](#how-to-learn-c)
 4. [Online Resources](#online-resources)
 
+
+## Internal Link
+
+- [c.md](./c.md)
+
 ## What is C?
 
 C is a statically typed, compiled programming language that emphasizes performance, efficiency, and control over system resources. It is often considered the lingua franca of programming languages, providing a foundation for understanding more complex languages and systems. C is known for its simplicity, portability, and close-to-hardware capabilities, making it a popular choice for system programming and embedded systems.

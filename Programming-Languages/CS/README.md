@@ -9,6 +9,10 @@ C# (pronounced "C-sharp") is a modern, object-oriented programming language deve
 3. [How to Learn C#](#how-to-learn-c#)
 4. [Online Resources](#online-resources)
 
+## Internal Link
+
+- [cs.md](./cs.md)
+
 ## What is C#?
 
 C# is a statically typed, multi-paradigm programming language that encompasses strong typing, imperative, declarative, functional, generic, object-oriented (class-based), and component-oriented programming disciplines. Developed by Microsoft within the .NET framework, C# is used to develop a wide range of applications, from desktop to web to mobile, and is known for its simplicity, versatility, and powerful features.

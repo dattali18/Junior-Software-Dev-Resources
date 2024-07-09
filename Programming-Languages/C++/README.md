@@ -9,6 +9,11 @@ C++ is a general-purpose programming language created by Bjarne Stroustrup as an
 3. [How to Learn C++](#how-to-learn-c++)
 4. [Online Resources](#online-resources)
 
+
+## Internal Links
+
+- [cpp.md](./cpp.md)
+
 ## What is C++?
 
 C++ is a statically typed, compiled, general-purpose programming language. It was designed with a bias towards system programming and embedded, resource-constrained, and large systems, with performance, efficiency, and flexibility of use as its design highlights. C++ supports procedural, object-oriented, and generic programming paradigms, making it a versatile choice for various types of software development.

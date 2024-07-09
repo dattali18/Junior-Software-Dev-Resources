@@ -11,6 +11,7 @@ Bash is a Unix shell and command language written by Brian Fox for the GNU Proje
 * [Bash Loops](/Programming-Languages/Bash/04.Bash.Loops.md)
 * [Bash Functions](/Programming-Languages/Bash/05.Bash.Functions.md)
 
+* [bash.md](./bash.md)
 
 ## Table of Contents
 
