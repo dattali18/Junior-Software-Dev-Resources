@@ -28,6 +28,7 @@ to be added
 
 ### D
 
+- [Data Mining](/Data-Science/Data-Mining/README.md)
 - [Docker](/Tools/Docker/README.md)
 
 ### E
