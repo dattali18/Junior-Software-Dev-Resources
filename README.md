@@ -23,7 +23,7 @@ to be added
 
 - [C](/Programming-Languages/C/README.md)
 - [C++](/Programming-Languages/C++/README.md)
-- [C#](/Programming-Languages/C#/README.md)
+- [C#](/Programming-Languages/CS/README.md)
 - [CSS](/Programming-Languages/CSS/README.md)
 
 ### D
@@ -52,6 +52,7 @@ to be added
 
 ### J
 
+- [Java](/Programming-Languages/Java/README.md)
 - [Javascript](/Programming-Languages/Javascript/README.md)
 
 ### K
@@ -76,7 +77,7 @@ to be added
 
 ### P
 
-to be added
+- [Python](/Programming-Languages/Python/README.md)
 
 ### Q
 
